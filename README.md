@@ -1,5 +1,5 @@
 # How to install
-- Download [Zipfile](https://github.com/Tehchy/Krunker-Resource-Swapper/archive/master.zip)
+- Download [Zipfile](https://github.com/traumatram/krunk-classis-css/archive/refs/heads/main.zip)
 - Extract
 - Add your resources
 - Open `chrome://extensions/` in chrome
