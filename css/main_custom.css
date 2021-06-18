@@ -8,6 +8,7 @@
 /*mainLogo and seasonLabel*/
 img#mainLogo {
   content: url(https://cdn.discordapp.com/attachments/855411149410795571/855411285784788992/css.gif)
+    /*other logo: (https://cdn.discordapp.com/attachments/855411149410795571/855432860634185759/e.gif)*/
 }
 
 #gameNameHolder:hover {
