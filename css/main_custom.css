@@ -1,0 +1,103 @@
+/*by trauma#7777 (my nitro will run out soon so here's my main) and cold#4777*/
+/*please do not distribute this file although it is free*/
+/*discord.gg/premium all the way. wink wink*/
+
+
+
+/*here starts the project*/
+/*mainLogo and seasonLabel*/
+img#mainLogo {
+  content: url(https://cdn.discordapp.com/attachments/855411149410795571/855411285784788992/css.gif)
+}
+
+#gameNameHolder:hover {
+    font-size: 36px;
+    color: #fff;
+}
+
+#gameNameHolder::after {
+    content: "css by cold#4777";
+    display: block;
+    font-family: 'ISOCP';
+}
+
+div#seasonLabel {
+    display:none
+}
+
+/*redditSocial, discordSocial, editorBtnM and downloadClient buttons*/
+div.imageButton.redditSocial, div.imageButton.discordSocial, div.imageButton.downloadClient {
+    width:0
+}
+
+img#editorBtnM {
+  display:none;
+}
+
+/*menu*/
+div#instructionsUpdate, div#menuWindow.dark {
+  background:none;
+  backdrop-filter: blur(5px);
+}
+
+/*right headerRight bar right header bar*/
+div#headerRight.headerBarRight.headerBar {
+    background:none;
+    backdrop-filter: blur(5px);
+}
+
+/*left header bar*/
+div#signedInHeaderBar.headerBarLeft.headerBar {
+  background:none;
+  backdrop-filter: blur(5px);
+}
+
+div#mLevelCont {
+  background:none;
+  backdrop-filter: blur(5px);
+}
+
+/*stream container and below*/
+div#streamContainer {
+  background:none;
+  backdrop-filter: blur(5px);
+}
+
+div#newUserGuide.youNewDiv {
+  background:none;
+  backdrop-filter: blur(5px);
+}
+
+div.youNewDiv {
+  display:none;
+}
+
+/*left side butons menuItem*/
+div.menuItem {
+    background:none;
+    backdrop-filter: blur(5px);
+}
+
+/*terms*/
+div#termsInfo {
+  display:none;
+}
+
+
+div#termsInfo: hover {
+  display:block;
+}
+
+/*bottom buttons and brave warning*/
+div#braveWarning {
+  display:none;
+  opacity: 0;
+  right:100%;
+}
+
+/*ads / advertising*/
+div#endAContainer, div#aContainer, #aHolder, .endAHolder, #onetrust-consent-sdk, #newsHolder, .krSocial, .imageButton, #editorBtnM {
+  display:none;
+  opacity: 0;
+  right:100%
+}
